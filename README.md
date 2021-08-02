@@ -1,5 +1,7 @@
 # Open Audio Search - Rust core
 
+**The Rust core was merged into [openaudiosearch/openaudiosearch](https://github.com/openaudiosearch/openaudiosearch/tree/main/rust), this repo is therefore deprecated**
+
 License: AGPL v3
 
 *Work in progress*
